@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/espressif-kicad-addon/symbols/Espressif.kicad_sym")(options "")(descr ""))
+  (lib (name "FH35C-45S-0.3SHW_50_")(type "KiCad")(uri "${KIPRJMOD}/FH35C-45S-0.3SHW_50_/FH35C-45S-0.3SHW_50_.kicad_sym")(options "")(descr ""))
+)
