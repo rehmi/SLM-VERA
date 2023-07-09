@@ -2,4 +2,6 @@
   (version 7)
   (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/espressif-kicad-addon/footprints/Espressif.pretty")(options "")(descr ""))
   (lib (name "FH35C-45S-0.3SHW_50_")(type "KiCad")(uri "${KIPRJMOD}/FH35C-45S-0.3SHW_50_")(options "")(descr ""))
+  (lib (name "Seeed Studio XIAO Series Library")(type "KiCad")(uri "${KIPRJMOD}/OPL_Kicad_Library/Seeed Studio XIAO Series Library")(options "")(descr ""))
+  (lib (name "KiCad")(type "KiCad")(uri "${KIPRJMOD}/4-2328724-5/KiCad")(options "")(descr ""))
 )
